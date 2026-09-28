@@ -1,28 +1,26 @@
-EDP INTERNSHIP - MACHINE LEARNING PROJECT
+# EDP Internship - Machine Learning Project
 
-PROJECT OVERVIEW
+## Project Overview
 
-This project was completed as part of my EDP Internship.
-During the internship, I learned and implemented different Machine
-Learning concepts using Python and Jupyter Notebook.
+This project was completed as part of my EDP Internship. During the
+internship, I learned and implemented different Machine Learning
+concepts using Python and Jupyter Notebook.
 
 The project covers data preprocessing, machine learning models,
-model evaluation, accuracy improvement, and GitHub documentation.
+model evaluation, accuracy improvement, and project documentation.
 
+## Objectives
 
-OBJECTIVES
+- Learn Machine Learning concepts
+- Understand data preprocessing
+- Train Machine Learning models
+- Evaluate model performance
+- Improve model accuracy
+- Identify misclassified samples
+- Visualize Machine Learning results
+- Learn Git and GitHub
 
-1. Learn the basics of Machine Learning.
-2. Understand data preprocessing.
-3. Train Machine Learning models.
-4. Evaluate model performance.
-5. Improve model accuracy.
-6. Identify misclassified samples.
-7. Visualize the results.
-8. Upload and document the project using GitHub.
-
-
-TECHNOLOGIES USED
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -35,66 +33,70 @@ TECHNOLOGIES USED
 - Git
 - GitHub
 
-
-DATASET
+## Dataset
 
 The Iris dataset was used for the Machine Learning experiments.
 
 The dataset contains:
+
 - 150 samples
 - 4 features
 - 3 flower classes
 
 The three classes are:
+
 - Iris Setosa
 - Iris Versicolor
 - Iris Virginica
 
+## Weekly Work
 
-WEEKLY WORK
+### Week 1
 
-WEEK 1
 Introduction to Python and basic programming concepts.
 
-WEEK 2
-Worked with Python libraries and data handling.
+### Week 2
 
-WEEK 3
+Worked with Python libraries and basic data handling.
+
+### Week 3
+
 Worked on Machine Learning classification and data preprocessing.
 
-WEEK 4
+### Week 4
+
 Implemented Machine Learning concepts using Python and Jupyter Notebook.
 
-WEEK 5
+### Week 5
+
 Implemented KNN and Neural Network models using the Iris dataset
 and compared their performance.
 
-WEEK 6
-Improved the KNN model by testing different K values and selecting
-a suitable K value.
+### Week 6
 
-WEEK 7
+Improved the KNN model by testing different K values and selecting
+a suitable K value based on accuracy.
+
+### Week 7
+
 Analyzed misclassified samples and evaluated the model using a
 confusion matrix and visualizations.
 
-WEEK 8
-Organized the complete internship project and documented it using
-Git and GitHub.
+### Week 8
 
+Organized the complete internship project and documented the project
+using Git and GitHub.
 
-MACHINE LEARNING MODEL
+## Machine Learning Model
 
-The main Machine Learning algorithm used in the project is:
-
-K-NEAREST NEIGHBORS (KNN)
+### K-Nearest Neighbors (KNN)
 
 KNN predicts the class of a new data point by checking the nearest
 data points in the training dataset.
 
-Different K values were tested to improve the model performance.
+Different K values were tested to improve model performance.
 
-
-MODEL EVALUATION
+## Model Evaluation
 
 The model was evaluated using:
 
@@ -102,20 +104,9 @@ The model was evaluated using:
 - Misclassified samples
 - Confusion Matrix
 - Actual vs Predicted values
-- Visualization
+- Data visualization
 
-
-MODEL FILES
-
-The trained model and scaler were saved using Joblib.
-
-Files:
-
-improved_knn_model.pkl
-scaler.pkl
-
-
-WHAT I LEARNED
+## What I Learned
 
 Through this internship project, I learned:
 
@@ -132,26 +123,23 @@ Through this internship project, I learned:
 - Git and GitHub
 - Project documentation
 
-
-FUTURE IMPROVEMENTS
+## Future Improvements
 
 The project can be improved by:
 
-- Testing more Machine Learning algorithms.
-- Using larger datasets.
-- Performing hyperparameter tuning.
-- Improving data visualization.
-- Deploying the model as a web application.
+- Testing additional Machine Learning algorithms
+- Using larger datasets
+- Performing hyperparameter tuning
+- Improving data visualization
+- Deploying the model as a web application
 
+## Author
 
-AUTHOR
-
-Anuganti Spandhana
+**Anuganti Spandhana**
 
 B.Tech Information Technology Student
 
-
-CONCLUSION
+## Conclusion
 
 This internship project helped me understand the complete Machine
 Learning workflow, from data preprocessing and model training to
